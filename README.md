@@ -20,7 +20,7 @@
 - 💻 Un apasionado de la tecnología de 16 años. <br>
 - 🔧 Siempre Team de lenguajes de bajo nivel.<br>
 - 👶 El lenguaje de Alto nivel es para putitos. <br>
-- 🌐 Desarrollo Web actualmente en autoaprendizaje.<br>
+- 🌐 El que lo lee es re PUTO.<br>
 - 🛡️ Jugador de LOL (League of Legends) en mi tiempo libre.<br>
 - 🌱 Siempre con ganas de aprender cosas nuevas y mejorar mis habilidades.<br>
 - 📄 Abierto para prácticas u oportunidades laborales, este es [mi currículum](#).
