@@ -92,11 +92,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario/repo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repo1&theme=tokyonight" />
+  <a href="https://github.com/adrianAlayo/Proyecto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianAlayo&repo=Proyecto&theme=tokyonight" />
   </a>
-  <a href="https://github.com/tu-usuario/repo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repo2&theme=tokyonight" />
+  <a href="https://github.com/adrianAlayo/practicaGit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianAlayo&repo=practicaGit&theme=tokyonight" />
   </a>
 </p>
 
