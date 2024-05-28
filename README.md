@@ -23,7 +23,7 @@
 - 🌐 El que lo lee es re PUTO.<br>
 - 🛡️ Jugador de LOL (League of Legends) en mi tiempo libre.<br>
 - 🌱 Siempre con ganas de aprender cosas nuevas y mejorar mis habilidades.<br>
-- 📄 Abierto para prácticas u oportunidades laborales, este es [mi currículum](#).
+- 📄 Abierto para prácticas u oportunidades laborales, este es .
 
 <br>
 
