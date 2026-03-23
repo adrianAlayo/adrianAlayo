@@ -4,76 +4,59 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Axel Alayo</h1></summary>
+    <summary><h1 style="display: inline-block">Hola, soy Axel Alayo</h1></summary>
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Backend;Líder+de+Proyecto;Estudiante+de+Sistemas;">
+  </a>
+</p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 <!--Intro start-->
 <img width="25%" high="25%" align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
-- <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-- 🔧 Siempre Team de lenguajes de bajo nivel.<br>
-- 👶 El lenguaje de Alto nivel es para putitos. <br>
-- 🌐 El que lo lee es re PUTO.<br>
-- 🛡️ Jugador de LOL (League of Legends) en mi tiempo libre.<br>
+Soy estudiante de desarrollo de software con enfoque en **backend**, interesado en la construcción de sistemas eficientes, escalables y bien estructurados.  <br>
+
+He participado en proyectos donde trabajé tanto en frontend como backend, lo que me permitió comprender el desarrollo completo de aplicaciones. En estos proyectos asumí roles como desarrollador backend y líder de equipo, aplicando buenas prácticas de programación y metodologías ágiles como Scrum.  <br>
+
+Actualmente estoy buscando mi primera oportunidad como **Backend Developer** para seguir creciendo profesionalmente y aportar valor en el desarrollo de soluciones tecnológicas.<br>
+
+
 
 
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-### Languages
-
+### ⚙️ Backend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py" alt="Java, Python" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,php" />
 </p>
 
-### Front-End Development
-
+### 🎨 Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML, CSS" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### Frameworks
-
+### 🗄️ Bases de Datos
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery" alt="Bootstrap, jQuery" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### Software and Tools
-
+### 🛠️ Herramientas
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,idea,windows,kali" alt="MySQL, VSCode, IntelliJ IDEA, Windows, Kali Linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,visualstudio,postman,github,npm,express" />
 </p>
 
-### Extras
-
+### 📚 Aprendiendo
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,blender,unity" alt="Arduino, Blender, Unity" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,cs,py" />
 </p>
 <br>
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
 
 | ![adrianAlayo's github stats](https://github-readme-stats.vercel.app/api?username=adrianAlayo&show_icons=true&theme=tokyonight) | ![adrianAlayo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianAlayo&theme=tokyonight) |
 | --- | --- |
@@ -82,34 +65,35 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
 
-## <b> Featured Repositories</b>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
+## <b> Repositorios Destacados</b>
 <p align="center">
-  <a href="https://github.com/adrianAlayo/Proyecto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianAlayo&repo=Proyecto&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/adrianAlayo/practicaGit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianAlayo&repo=practicaGit&theme=tokyonight" />
+  <a href="https://github.com/adrianAlayo/POO-TurneraMedica">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianAlayo&repo=POO-TurneraMedica&theme=tokyonight" />
   </a>
 </p>
 
+
 <br>
 
-## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> Contacto </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <p align="center">
-  <a href="mailto:axelalayo3@gmail.com">
+  <a href="mailto:axelalayo8@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/addri_ann_7h">
+  
+  <a href="https://www.instagram.com/addri_ann_7h" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://github.com/adrianAlayo">
+  
+  <a href="https://www.linkedin.com/in/axel-alayo-2b937a3b7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+ 
+  <a href="https://github.com/adrianAlayo" >
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
